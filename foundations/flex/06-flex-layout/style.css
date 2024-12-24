@@ -33,7 +33,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  flex: auto;
+  flex: 1;
   border: 2px solid red;
 }
 
